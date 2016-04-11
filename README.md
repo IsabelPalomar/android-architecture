@@ -5,4 +5,4 @@ Esta libertad es bastante valuable, pero tambien puede resultar en aplicaciones 
 
 Si quieres leer toda la información ve a la [wiki](https://github.com/IsabelPalomar/android-architecture/wiki)
 
-Este proyecto esta inspirado en [BluePrints](https://github.com/IsabelPalomar/android-architecture/wiki) 
+Este proyecto esta inspirado en [Blueprints](https://github.com/googlesamples/android-architecture) 
